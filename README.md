@@ -1,5 +1,5 @@
 # Introduction
-Two files with each haivng a different functionality, GaussianBlur.java adds a gaussian blur to images using the Kernel matrix and the GrayScaleConvert.java converts a given image to grayscale equivalents.
+Two files with each having a different functionality, GaussianBlur.java adds a gaussian blur to images using the Kernel matrix and the GrayScaleConvert.java converts a given image to grayscale equivalents.
 
 These are proof of concepts I have for a simple photo-editing software I am working on built using Java
 
